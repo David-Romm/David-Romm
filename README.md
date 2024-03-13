@@ -1,5 +1,8 @@
 ### Hi there 👋
+my name is David or Dovi for short.
+im a mechatronic engineering student at UNSW.
 
+fun fact about me is that im a VR sim racer!
 <!--
 **David-Romm/David-Romm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
